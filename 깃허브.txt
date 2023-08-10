@@ -20,6 +20,9 @@ git config user.email "wonjinbo@gmail.com"
 검사
 git config user.name
 git config user.email
+닷홈
+wonjinbo.dothome.co.kr/
+
 깃허브
 wonjinbo.github.io/gensis_fade
 
@@ -31,7 +34,7 @@ CORS
 http://wonjinbo.co.kr//member.php
 http://wonjinbo.co.kr//member.jsp
 추가
-git remote add origin https://github.com/wonjinbo/genesis.git
+git remote add origin https://github.com/wonjinbo/gensis_fade.git 
 삭제
 git remote remove origin 
 확인

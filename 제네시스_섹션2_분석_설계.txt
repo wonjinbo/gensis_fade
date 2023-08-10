@@ -2,3 +2,4 @@
 1623
 
 1623 = 왼쪽로고공간 198 + 1425
+Your site is live at https://wonjinbo.github.io/gensis_fade/
